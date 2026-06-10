@@ -1,2 +1,5 @@
 # prompt-library
-A structured library of copy/paste-ready coding prompts for code review, debugging, refactoring, architecture analysis, security audits, documentation, and implementation planning.
+
+`prompt-library` is a collection of organized, copy/paste-ready prompts for coding work.
+
+The prompts are written for use with AI coding assistants and are focused on practical software development tasks such as code review, debugging, refactoring, architecture review, security audits, testing, documentation, and implementation planning.
